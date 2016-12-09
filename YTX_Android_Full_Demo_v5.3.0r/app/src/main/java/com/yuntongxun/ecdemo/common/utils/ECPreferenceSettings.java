@@ -54,8 +54,12 @@ public enum ECPreferenceSettings {
 
 
 
-   SETTINGS_APPKEY("com.yuntongxun.ecdemo_appkey" , "20150314000000110000000000000010"),
-   SETTINGS_TOKEN("com.yuntongxun.ecdemo_token" , "17E24E5AFDB6D0C1EF32F3533494502B"),
+//   SETTINGS_APPKEY("com.yuntongxun.ecdemo_appkey" , "20150314000000110000000000000010"),
+//   SETTINGS_TOKEN("com.yuntongxun.ecdemo_token" , "17E24E5AFDB6D0C1EF32F3533494502B"),
+
+
+    SETTINGS_APPKEY("com.yuntongxun.ecdemo_appkey" , "8a216da8588b296f01588fe6cbe80332"),
+    SETTINGS_TOKEN("com.yuntongxun.ecdemo_token" , "1c6c7a4ae3e8e6dfac45cb386e685800"),
 
 
 
